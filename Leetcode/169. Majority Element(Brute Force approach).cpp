@@ -1,3 +1,4 @@
+//leetcode problem => 169. Majority Element (Brute Force approach)
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {

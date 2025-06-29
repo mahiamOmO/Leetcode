@@ -1,3 +1,4 @@
+//leetcode problem -> 169. Majority Element (Moore's voting algorithm)
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
